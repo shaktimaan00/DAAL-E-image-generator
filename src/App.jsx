@@ -11,7 +11,7 @@ function App() {
   );
   const configuration = new Configuration({
     // apiKey: import.meta.env.VITE_Open_AI_Key,
-    apiKey: `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`,
+    apiKey: `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`,
   });
   // console.log(apiKey)
 
